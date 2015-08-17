@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package Abigacla;
+package Abigail;
 
 /**
  *
  * @author 20121054010380
  */
-public class Abigacla {
+public class Abigail {
     
 }

@@ -11,5 +11,7 @@ package Jorge;
  * @author 20121054010401
  */
 public class Jorge {
-    
+    public static void main (String[] args){
+        System.out.println("Oi, sou o menino da biblioteca e da Batista!");
+    }
 }

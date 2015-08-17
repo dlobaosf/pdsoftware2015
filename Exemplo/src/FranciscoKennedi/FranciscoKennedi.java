@@ -11,7 +11,4 @@ package FranciscoKennedi;
  * @author 20121054010061
  */
 public class FranciscoKennedi {
-    public static void main (String []args){
-        System.out.println("João é viadão _|_");
-    }
 }

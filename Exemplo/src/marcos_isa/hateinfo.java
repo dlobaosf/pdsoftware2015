@@ -11,5 +11,8 @@ package marcos_isa;
  * @author 20121054010177
  */
 public class hateinfo {
-    
+    public static void main (String[]  args){
+        System.out.println("PRIMEIRO LUGAR EM FISIO");
+        System.out.println("Massagista do flamengo");
+    }
 }

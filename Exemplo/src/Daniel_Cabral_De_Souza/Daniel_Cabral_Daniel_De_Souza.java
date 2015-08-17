@@ -3,15 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GlauciaIngryd;
+
+package Daniel_Cabral_De_Souza;
 
 /**
  *
- * @author 20121054010070
+ * @author 20121054010088
  */
-public class GlauciaRodirgues {
-    public static void main(String []args){
-        System.out.println("to pensando em Direito");
-        
-    }
+public class Daniel_Cabral_Daniel_De_Souza {
+    //
 }

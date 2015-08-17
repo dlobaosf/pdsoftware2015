@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-package FranciscoKennedi;
+package Pedro;
 
 /**
  *
- * @author 20121054010061
+ * @author 20121054010045
  */
-public class FranciscoKennedi {
-    public static void main(String []args){
-        System.out.println("Oi povo!!");
-    }
+public class Pedro {
+    
 }

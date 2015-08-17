@@ -4,14 +4,12 @@
  * and open the template in the editor.
  */
 
-package FranciscoKennedi;
+package Jorge;
 
 /**
  *
- * @author 20121054010061
+ * @author 20121054010401
  */
-public class FranciscoKennedi {
-    public static void main(String []args){
-        System.out.println("Oi povo!!");
-    }
+public class Jorge {
+    
 }

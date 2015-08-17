@@ -12,6 +12,6 @@ package FranciscoKennedi;
  */
 public class FranciscoKennedi {
     public static void main (String []args){
-        System.out.println("_|_");
+        System.out.println("João é viadão _|_");
     }
 }

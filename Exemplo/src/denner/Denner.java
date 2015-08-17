@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Max;
+package denner;
 
 /**
  *
- * @author Max
+ * @author Denner
  */
-public class Max {
+public class Denner {
     
 }

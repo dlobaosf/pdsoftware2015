@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-package JoaoCamara.JoaoCamara;
+package Pedro;
 
 /**
  *
- * @author 20121054010347
+ * @author 20121054010045
  */
-public class JoaoCamara {
-    public static void main(String []args){
-        System.out.println("CHEGA KENNEDI");
-    }
+public class Pedro {
+    
 }
